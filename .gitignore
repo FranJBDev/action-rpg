@@ -1,0 +1,21 @@
+# Archivos específicos de Godot 4+
+.godot/
+
+# Archivos específicos de Godot 3 (por compatibilidad)
+.import/
+
+# Configuraciones de exportación (pueden contener rutas locales)
+export.cfg
+export_presets.cfg
+
+# Traducciones generadas automáticamente
+*.translation
+
+# Específicos de Mono/C# (si usas C#)
+.mono/
+data_*/
+mono_crash.*
+[Oo]bj/
+[Bb]in/
+*.csproj
+*.sln
